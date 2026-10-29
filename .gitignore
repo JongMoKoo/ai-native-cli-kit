@@ -1,0 +1,15 @@
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.env
+.env.*
+*.key
+*.pem
+*.pkl
+*.joblib
+results.csv
+summary.json
+RUN_LOG.md
+# Never commit exam data, task files, prompts or outputs.
